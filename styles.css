@@ -4,12 +4,14 @@ body {
 }
 
 h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgba(255, 0, 0, 0.841);
     font-size: 1.7em;
 
 }
 
 p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgba(255, 0, 0, 0.725);
     font-size: 1.2em;
 }
@@ -17,4 +19,5 @@ p {
 
 img {
     width: 300px;
+    max-width: 50vh;
 }
